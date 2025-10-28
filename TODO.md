@@ -1,6 +1,6 @@
 # TO-DO List
 
-- [ ] Do the github course.
+- [x] Do the github course.
 - [ ] Eat lunch
 - [ ] Million meetings
 - [ ] Go home
